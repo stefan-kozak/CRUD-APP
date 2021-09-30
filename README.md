@@ -1,4 +1,4 @@
-# crud-webglobe-kozak
+# crud
 
 ## Project setup
 ```
