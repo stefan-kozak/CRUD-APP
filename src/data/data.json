@@ -1,0 +1,50 @@
+employees: [
+    {
+      id: 0,
+      title: '',
+      firstName: 'Štefan',
+      lastName: 'Kozák',
+      email: 'stefan.kozak99@gmail.com',
+      phoneNumber: '0917648474',
+      salary: '1450€',
+    },
+
+    {
+      id: 1,
+      title: 'Dr.',
+      firstName: 'John',
+      lastName: 'Doe',
+      email: 'johndoe@gmail.com',
+      phoneNumber: '0917648474',
+      salary: '',
+    },
+
+    {
+      id: 2,
+      title: 'Mgr.',
+      firstName: 'Susan',
+      lastName: 'Doe',
+      email: 'susandoe@gmail.com',
+      phoneNumber: '0917648474',
+      salary: '',
+    },
+  ],
+  positions: [
+    {
+      id: 0,
+      name: 'Junior Front-end developer',
+      salary: '1400€',
+    },
+
+    {
+      id: 1,
+      name: 'Back-end developer',
+      salary: '3000€',
+    },
+
+    {
+      id: 2,
+      name: 'Accountant',
+      salary: '2000€',
+    },
+  ],
